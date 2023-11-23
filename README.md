@@ -6,4 +6,6 @@
 
 Геймплей - https://youtu.be/Y70V3SADi_s
 
+Страница на itch.io - https://omega-quality.itch.io/overkill
+
 Суть проекта - научиться работать с движком, понять азы разработки на Blueprints
